@@ -12,7 +12,7 @@ class Batsferd : public Ferd {
     public:
         Batsferd();
         Batsferd(int id, int fjoldi, int fjoldibokadir, bool yfirbyggdur);
-        bool getYfirbyggður();
-        void setYfirbyggður(bool yfirbyggdur);
+        bool getYfirbyggdur();
+        void setYfirbyggdur(bool yfirbyggdur);
         void prenta();
 };

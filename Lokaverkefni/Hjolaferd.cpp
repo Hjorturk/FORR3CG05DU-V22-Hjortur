@@ -16,5 +16,5 @@ void Hjolaferd::setTimi(int timi) {
     this->timi = timi;
 }
 void Hjolaferd::prenta() {
-    cout << "Id: " << this->getId() << " Fjöldi Sæta: " << this->getFjoldiSaeta() << " Fjöldi bókana: " << this->getFjoldibokadir() << " Áfangastaður: " << this->getTimi() << endl;
+    cout << "Id: " << this->getId() << " | Fjöldi Sæta: " << this->getFjoldiSaeta() << " | Fjöldi bókana: " << this->getFjoldibokadir() << " | Tími ferðar: " << this->getTimi() << endl;
 }

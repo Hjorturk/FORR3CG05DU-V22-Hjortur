@@ -16,5 +16,5 @@ void Flugferd::setAfangastadur(string afangastadur) {
     this->afangastadur = afangastadur;
 }
 void Flugferd::prenta() {
-    cout << "Id: " << this->getId() << " Fjöldi Sæta: " << this->getFjoldiSaeta() << " Fjöldi bókana: " << this->getFjoldibokadir() << " Áfangastaður: " << this->getAfangastadur() << endl;
+    cout << "Id: " << this->getId() << " | Fjöldi Sæta: " << this->getFjoldiSaeta() << " | Fjöldi bókana: " << this->getFjoldibokadir() << " | Áfangastaður: " << this->getAfangastadur() << endl;
 }

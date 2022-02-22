@@ -16,9 +16,9 @@ class Ferd{
         int getId();
         void setId(int);
         int getFjoldiSaeta();
-        void setFjoldiSaeta();
+        void setFjoldiSaeta(int);
         int getFjoldibokadir();
-        void setFjoldibokadir();
+        void setFjoldibokadir(int);
         bool baetaVidBokun(int vidbot);
         virtual void prenta();
         ~Ferd();

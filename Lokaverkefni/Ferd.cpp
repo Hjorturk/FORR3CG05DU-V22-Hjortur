@@ -22,13 +22,13 @@ void Ferd::setId(int) {
 int Ferd::getFjoldiSaeta() {
     return this->fjoldisaeta;
 }
-void Ferd::setFjoldiSaeta() {
+void Ferd::setFjoldiSaeta(int) {
     this->fjoldisaeta = fjoldisaeta;
 }
 int Ferd::getFjoldibokadir() {
     return this->fjoldibokadir;
 }
-void Ferd::setFjoldibokadir() {
+void Ferd::setFjoldibokadir(int) {
     this->fjoldibokadir = fjoldibokadir;
 }
 bool Ferd::baetaVidBokun(int vidbot){
