@@ -1,6 +1,8 @@
 # FORR3CG05DU-V22-Hjortur
 
-Mánudagur 21.Febrúar: Missti af tímanum vegna vinnu.
+Mánudagur 21.Febrúar: 
+
+Missti af tímanum vegna vinnu.
 
 Þriðjudagur 22. Febrúar: 
 
