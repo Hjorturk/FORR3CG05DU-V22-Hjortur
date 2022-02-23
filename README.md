@@ -20,3 +20,9 @@ Mánudagur 21.Febrúar:
                          
 Miðvikudagur 23.Febrúar: 
                          
+                        Klasavinna,kláraði klasa en vandamál með að eyða ferð eins og hjá Snorra, sem kemur ekki á óvart þar sem við vinnum mikið saman og okkar kóðar eru svipaðir
+                        
+                        Eyða fallið komið í lag, vantaði "virtual" fyrir framan ~Ferd(); í Ferd.h
+                        
+                        Fínpússun á klösum
+                        
