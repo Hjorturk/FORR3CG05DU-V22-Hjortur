@@ -42,7 +42,7 @@ Mánudagur 28. Febrúar:
                         
 Þriðjudagur 1. Mars:                        
                         
-                        Bókun löguð, var föst í while lykkju með ID og var einnig að biðja um fjórar innsláttar breytur þegar það áttu bara að vera þrjár.
+                        Bókun löguð, var föst í while lykkju með ID og var einnig að biðja um fjórar innsláttar breytur þegar það áttu bara að vera þrjár. Vantaði current = current->next.
                         
                         Fínpússað verkefnið fyrir skil, grunnkröfur uppfylltar ásamt nokkrum aukakröfum.
                         
