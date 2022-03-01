@@ -14,12 +14,13 @@ class Ferd{
         Ferd();
         Ferd(int id, int fjoldisaeta, int fjoldibokadir);
         int getId();
-        void setId(int);
+        void setId(int id);
         int getFjoldiSaeta();
-        void setFjoldiSaeta(int);
+        void setFjoldiSaeta(int fjoldisaeta);
         int getFjoldibokadir();
-        void setFjoldibokadir(int);
-        bool baetaVidBokun(int vidbot);
+        void setFjoldibokadir(int fjoldibokadir);
+        bool baedtavidbokun(int vidbot);
+        virtual string getType() = 0;
         virtual void prenta();
-        ~Ferd();
+        virtual ~Ferd();
 };

@@ -16,24 +16,25 @@ Ferd::Ferd(int id, int fjoldisaeta, int fjoldibokadir) {
 int Ferd::getId() {
     return this->id;
 }
-void Ferd::setId(int) {
+void Ferd::setId(int id) {
     this->id = id;
 }
 int Ferd::getFjoldiSaeta() {
     return this->fjoldisaeta;
 }
-void Ferd::setFjoldiSaeta(int) {
+void Ferd::setFjoldiSaeta(int fjoldisaeta) {
     this->fjoldisaeta = fjoldisaeta;
 }
 int Ferd::getFjoldibokadir() {
     return this->fjoldibokadir;
 }
-void Ferd::setFjoldibokadir(int) {
+void Ferd::setFjoldibokadir(int fjoldibokadir) {
     this->fjoldibokadir = fjoldibokadir;
 }
-bool Ferd::baetaVidBokun(int vidbot){
-    if(vidbot+fjoldibokadir <= this->fjoldisaeta) {
+bool Ferd::baedtavidbokun(int vidbot) {
+    if(vidbot+this->fjoldibokadir <= this->fjoldisaeta) {
         this->fjoldibokadir += vidbot;
+        cout << "Fjöldi bókaðra hefur verið uppfært!" << endl;
         return true;
     }
     return false;

@@ -11,8 +11,9 @@ class Flugferd : public Ferd {
         string afangastadur;
     public:
         Flugferd();
-        Flugferd(int id, int fjoldi, int fjoldibokadir, string afangastadur);
+        Flugferd(int id, int fjoldisaeta, int fjoldibokadir, string afangastadur);
         string getAfangastadur();
         void setAfangastadur(string afangastadur);
         void prenta();
+        string getType();
 };

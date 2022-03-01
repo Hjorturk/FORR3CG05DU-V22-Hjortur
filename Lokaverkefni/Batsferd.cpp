@@ -18,3 +18,6 @@ void Batsferd::setYfirbyggdur(bool yfirbyggdur) {
 void Batsferd::prenta() {
     cout << "Id: " << this->getId() << " | Fjöldi Sæta: " << this->getFjoldiSaeta() << " | Fjöldi bókana: " << this->getFjoldibokadir() << " | Yfirbyggður: " << (this->getYfirbyggdur() ? "Já" : "Nei") << endl;
 }
+string Batsferd::getType() {
+    return "bátsferð";
+}

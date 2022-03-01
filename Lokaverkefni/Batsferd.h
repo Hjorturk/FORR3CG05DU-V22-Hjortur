@@ -1,5 +1,5 @@
 // Hjörtur Kristjánsson
-
+#pragma once
 #include <iostream>
 #include <string>
 #include "Ferd.h"
@@ -11,8 +11,9 @@ class Batsferd : public Ferd {
         bool yfirbyggdur; 
     public:
         Batsferd();
-        Batsferd(int id, int fjoldi, int fjoldibokadir, bool yfirbyggdur);
+        Batsferd(int id, int fjoldisaeta, int fjoldibokadir, bool yfirbyggdur);
         bool getYfirbyggdur();
         void setYfirbyggdur(bool yfirbyggdur);
+        string getType();
         void prenta();
 };

@@ -6,7 +6,7 @@
 Hjolaferd::Hjolaferd() {
     this->timi = 0;
 }
-Hjolaferd::Hjolaferd(int id, int fjoldi, int fjoldibokadir, int timi)  : Ferd(id, fjoldi, fjoldibokadir) {
+Hjolaferd::Hjolaferd(int id, int fjoldisaeta, int fjoldibokadir, int timi)  : Ferd(id, fjoldisaeta, fjoldibokadir) {
     this->timi = timi;
 }
 int Hjolaferd::getTimi() {
@@ -16,5 +16,9 @@ void Hjolaferd::setTimi(int timi) {
     this->timi = timi;
 }
 void Hjolaferd::prenta() {
-    cout << "Id: " << this->getId() << " | Fjöldi Sæta: " << this->getFjoldiSaeta() << " | Fjöldi bókana: " << this->getFjoldibokadir() << " | Tími ferðar: " << this->getTimi() << endl;
+    cout << "Id: " << this->getId() << " | Fjöldi Sæta: " << this->getFjoldiSaeta() << " | Fjöldi bókana: " << this->getFjoldibokadir() << " | Tími ferðar: " << this->getTimi() <<" klst" << endl;
+}
+
+string Hjolaferd::getType() {
+    return "bátsferð";
 }
