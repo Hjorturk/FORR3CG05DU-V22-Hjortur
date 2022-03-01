@@ -26,3 +26,24 @@ Miðvikudagur 23.Febrúar:
                         
                         Fínpússun á klösum
                         
+Fimmtudagur 24. Febrúar:                        
+                        
+                        Engin vinna gerð, próf í áfanganum.
+                        
+Föstudagur-Sunnudagur 25.-27. Febrúar:                        
+                        
+                        Lærdómur fyrir Stærðfræðipróf, engin vinna gerð.
+                        
+                        
+Mánudagur 28. Febrúar:                        
+                        
+                        Engin vinna gerð í verkefni, mætt var í vinnuna frekar.
+                        
+                        
+Þriðjudagur 1. Mars:                        
+                        
+                        Bókun löguð, var föst í while lykkju með ID og var einnig að biðja um fjórar innsláttar breytur þegar það áttu bara að vera þrjár.
+                        
+                        Fínpússað verkefnið fyrir skil, grunnkröfur uppfylltar ásamt nokkrum aukakröfum.
+                        
+                        
