@@ -46,4 +46,10 @@ Mánudagur 28. Febrúar:
                         
                         Fínpússað verkefnið fyrir skil, grunnkröfur uppfylltar ásamt nokkrum aukakröfum.
                         
+                        Vandamál fundið með að skrá Hjólaferð, skráir sem Bátsferð. LEYST! Vitlaust skráferð skrifuð, var skraBatsferd ekki skraHjolaferd.
+                        
+                        
+                        
+                        
+                        
                         
