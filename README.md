@@ -48,8 +48,8 @@ Mánudagur 28. Febrúar:
                         
                         Vandamál fundið með að skrá Hjólaferð, skráir sem Bátsferð. LEYST! Vitlaust skráferð skrifuð, var skraBatsferd ekki skraHjolaferd.
                         
+Aukakröfu sem eru í verkefninu:                        
                         
+                        Gögn eru röðuð eftir ID.
                         
-                        
-                        
-                        
+                        Litir eru í viðmóti.
